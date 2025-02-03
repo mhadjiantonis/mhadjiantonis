@@ -1,15 +1,11 @@
 # Marios Hadjiantonis
 
-- Aspiring data scientist with a theoretical physics background
-- Highly motivated with a constant urge to expand knowledge and expertise
-- 7+ years of experience in academic research and in teaching and tutoring college students
-- Analytical mindset combined with diverse computational skills
-- Experience in applying theoretical and computational techniques to solve complex problems
-- Coding skills: 
-   - Python with data science and machine learning libraries (Numpy, Pandas, Scikit-Learn etc.)
-   - SQL queries
-   - Mathematica
-   - Familiar with C++
+Highly skilled Analytics Engineer with exceptional problem-solving abilities and a strong product mindset. Known for analytical acumen, maturity and the ability to uncover meaning from raw data. Diligent and collaborative, I excel at tackling complex challenges, mastering new technologies, and delivering insights that drive user-focused decisions.
+## Skills
+### Soft skills: 
+Analytical ​Skills, Creative ​Problem ​Solving, Stakeholder ​management, Group ​collaboration, Communication ​skills, Technical ​Writing, Teaching
+### Technical skills: 
+Python, SQL, dbt, Prefect, Looker ​Studio, Google ​Cloud ​Platform, Airbyte, Airflow, Data ​Analysis, Machine ​Learning, Statistics, Object-​Oriented ​Programming ​(​OOP)​, Physics
    
 ## Recent projects
 1. [Flu shot Learning](https://github.com/mhadjiantonis/FluShotLearning/): A Driven Data competition to predict acceptance of flu vaccines from demographic data
